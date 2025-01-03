@@ -8,4 +8,6 @@ You're required to create a function that receives an array (M) and integer valu
 
 > 🚨 We're looking to someone who can imagine future problems while is coding.
 
- 
+
+## Test output
+![alt text](test-output.png)
